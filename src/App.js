@@ -12,7 +12,7 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <p>
-            Hello World! Hola
+            Hola! Voila
           </p>
           <a
             className="App-link"
